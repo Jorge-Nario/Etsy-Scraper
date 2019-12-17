@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'etsy_miner.spiders'
 
 ITEM_PIPELINES = {'scrapy.pipelines.images.ImagesPipeline': 1}
 
-IMAGES_STORE = '/home/winston/mb2/data/'
+IMAGES_STORE = '/home/jnario/mb2/data/'
 
 COMPRESSION_ENABLED = False
 
